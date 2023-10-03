@@ -1,0 +1,2 @@
+DESCRIBE users;
+SHOW COLUMNS IN users;
